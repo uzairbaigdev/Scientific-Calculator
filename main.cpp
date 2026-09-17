@@ -1,16 +1,3 @@
-/*
-    Scientific Calculator in C++
-    -----------------------------
-    Supports: +, -, *, /, modulus, power, square root, nth root,
-              trigonometric functions (sin, cos, tan in degrees),
-              inverse trigonometric functions,
-              logarithms (base 10 and natural),
-              exponential (e^x), factorial, and constants (pi, e).
-
-    Compile:  g++ -std=c++17 -o scientific_calculator scientific_calculator.cpp
-    Run:      ./scientific_calculator
-*/
-
 #include <iostream>
 #include <cmath>
 #include <limits>
